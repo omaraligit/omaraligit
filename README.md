@@ -60,5 +60,3 @@
 <a href="https://www.instagram.com/oaba_omar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-oaba_omar-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:omarali0601520286@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omarali0601520286@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
