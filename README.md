@@ -39,6 +39,9 @@
 <img src="http://img.shields.io/badge/-Spring%20Boot-green?style=flat&logo=spring&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white">
 <img src="http://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js&logoColor=white">
+<img src="http://img.shields.io/badge/-Android-green?style=flat&logo=android&logoColor=white">
+<img src="http://img.shields.io/badge/-React%20native-blue?style=flat&logo=react%20native&logoColor=white">
+<img src="http://img.shields.io/badge/-Ionic-blue?style=flat&logo=ionic&logoColor=white">
 
 ---
 
