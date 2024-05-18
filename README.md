@@ -7,8 +7,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at ISGA.
-- 💼 &nbsp; Working as a Fullstack developer at 2wls.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Working as a Mulesoft developer at Capgemini.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 ---
